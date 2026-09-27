@@ -1,0 +1,14 @@
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\bin\Debug\net10.0\Entrevista_.exe
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\bin\Debug\net10.0\Entrevista_.deps.json
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\bin\Debug\net10.0\Entrevista_.runtimeconfig.json
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\bin\Debug\net10.0\Entrevista_.dll
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\bin\Debug\net10.0\Entrevista_.pdb
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.AssemblyInfoInputs.cache
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.AssemblyInfo.cs
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.csproj.CoreCompileInputs.cache
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.dll
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\refint\Entrevista_.dll
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.pdb
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\Entrevista_.genruntimeconfig.cache
+C:\Users\guillemci\Documents\Entrevista\Entrevista_\Entrevista_\obj\Debug\net10.0\ref\Entrevista_.dll

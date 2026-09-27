@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Entrevista_/1.0.0": {
+        "runtime": {
+          "Entrevista_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrevista_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

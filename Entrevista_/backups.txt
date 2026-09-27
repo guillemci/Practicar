@@ -1,0 +1,18 @@
+    static int SubsequenciaConsecutiva(int[] numeros)
+    {
+        int subsequenciaMaxima = 1;
+        int subsequenciaActual = 1;
+
+        for (int i = 1; i < numeros.Length; i++)
+        {
+            if (numeros[i - 1] < numeros[i])
+                subsequenciaActual++;
+            else
+                subsequenciaActual = 1;
+            
+            if (subsequenciaActual > subsequenciaMaxima)
+                subsequenciaMaxima = subsequenciaActual;
+        }
+        
+        return subsequenciaMaxima;
+    }
