@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guillemci\\Documents\\Practicar-main\\Entrevista_\\Entrevista_\\Entrevista_.csproj": {}
+    "D:\\programacio\\Practicar\\Entrevista_\\Entrevista_\\Entrevista_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guillemci\\Documents\\Practicar-main\\Entrevista_\\Entrevista_\\Entrevista_.csproj": {
+    "D:\\programacio\\Practicar\\Entrevista_\\Entrevista_\\Entrevista_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guillemci\\Documents\\Practicar-main\\Entrevista_\\Entrevista_\\Entrevista_.csproj",
+        "projectUniqueName": "D:\\programacio\\Practicar\\Entrevista_\\Entrevista_\\Entrevista_.csproj",
         "projectName": "Entrevista_",
-        "projectPath": "C:\\Users\\guillemci\\Documents\\Practicar-main\\Entrevista_\\Entrevista_\\Entrevista_.csproj",
+        "projectPath": "D:\\programacio\\Practicar\\Entrevista_\\Entrevista_\\Entrevista_.csproj",
         "packagesPath": "C:\\Users\\guillemci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guillemci\\Documents\\Practicar-main\\Entrevista_\\Entrevista_\\obj\\",
+        "outputPath": "D:\\programacio\\Practicar\\Entrevista_\\Entrevista_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guillemci\\AppData\\Roaming\\NuGet\\NuGet.Config"
